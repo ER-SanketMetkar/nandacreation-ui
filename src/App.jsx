@@ -948,13 +948,15 @@ export default function App() {
                     Back to Catalog
                   </button>
 
-                  <button
-                    type="submit"
-                    className="btn-place-order"
-                    disabled={submittingOrder}
-                  >
-                    {submittingOrder ? 'Processing...' : 'Place Order'}
-                  </button>
+                 {/*
+<button
+  type="submit"
+  className="btn-place-order"
+  disabled={submittingOrder}
+>
+  {submittingOrder ? 'Processing...' : 'Place Order'}
+</button>
+*/}
 
                   <button
                     type="button"
