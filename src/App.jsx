@@ -1523,7 +1523,7 @@ export default function App() {
 
         <div className="footer-bottom">
           <span>&copy; {new Date().getFullYear()} Nanda Creations. All rights reserved.</span>
-          <span>Designed with Love in Maharashtra</span>
+          <span>Designed by Sanket Metkar</span>
         </div>
       </footer>
     </div>
